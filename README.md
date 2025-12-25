@@ -1,5 +1,5 @@
 ## Portfolio
-### Follow the link below to my showcase:
+### View my showcase by clicking the link below:
 https://mavenshowcase.com/profile/2821a370-d041-709c-b82b-d27ce7361a61
 
 <!--
